@@ -21,8 +21,17 @@ export default function Home() {
           <Image src={tshirt1} alt={''} width={520} height={480}/>
 
           <footer>
-            <strong> T-shirt X</strong>
-            <span>  R$: 79,90</span>
+               <strong> T-shirt X</strong>
+               <span>  R$: 79,90</span>
+               </footer>
+        </Product>
+      
+        <Product className="keen-slider__slide">
+          <Image src={tshirt1} alt={''} width={520} height={480}/>
+
+          <footer>
+               <strong> T-shirt X</strong>
+               <span>  R$: 79,90</span>
           </footer>
         </Product>
       
@@ -30,17 +39,8 @@ export default function Home() {
           <Image src={tshirt1} alt={''} width={520} height={480}/>
 
           <footer>
-            <strong> T-shirt X</strong>
-            <span>  R$: 79,90</span>
-          </footer>
-        </Product>
-      
-        <Product className="keen-slider__slide">
-          <Image src={tshirt1} alt={''} width={520} height={480}/>
-
-          <footer>
-            <strong> T-shirt X</strong>
-            <span>  R$: 79,90</span>
+               <strong> T-shirt X</strong>
+               <span>  R$: 79,90</span>
           </footer>
         </Product>
 
@@ -48,8 +48,8 @@ export default function Home() {
           <Image src={tshirt1} alt={''} width={520} height={480}/>
 
           <footer>
-            <strong> T-shirt X</strong>
-            <span>  R$: 79,90</span>
+               <strong> T-shirt X</strong>
+               <span>  R$: 79,90</span>
           </footer>
         </Product>
 
@@ -57,8 +57,8 @@ export default function Home() {
           <Image src={tshirt1} alt={''} width={520} height={480}/>
 
           <footer>
-            <strong> T-shirt X</strong>
-            <span>  R$: 79,90</span>
+                <strong> T-shirt X</strong>
+                <span>  R$: 79,90</span>
           </footer>
         </Product>
       </HomeContainer>
