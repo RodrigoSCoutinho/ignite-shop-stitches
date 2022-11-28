@@ -2,8 +2,8 @@ import { HomeContainer, Product } from '../../styles/pages/home'
 import Image from 'next/future/image'
 import { useKeenSlider } from 'keen-slider/react'
 import tshirt1 from '../assets/tshirts/tshirt1.png'
-import tshirt2 from '../assets/tshirts/tshirt2.png'
-import tshirt3 from '../assets/tshirts/tshirt3.png'
+// import tshirt2 from '../assets/tshirts/tshirt2.png'
+// import tshirt3 from '../assets/tshirts/tshirt3.png'
 
 import 'keen-slider/keen-slider.min.css';
 
